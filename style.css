@@ -3,7 +3,7 @@
 }
 
 nav{
-    background-color: rgb(158, 157, 156);
+    background-color: rgb(85, 85, 84);
     padding: 0 30%;
 }
 
@@ -14,7 +14,7 @@ nav li{
 
 nav li a{
     display: inline-block;
-    color: #bac7c2;
+    color: #757a78;
     text-decoration: none;
     padding: 20px;
     
