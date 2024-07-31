@@ -3,7 +3,7 @@
 }
 
 nav{
-    background-color: rgb(228, 199, 154);
+    background-color: rgb(73, 71, 68);
     padding: 0 30%;
 }
 
@@ -14,7 +14,7 @@ nav li{
 
 nav li a{
     display: inline-block;
-    color: #383232;
+    color: #fcf5f5;
     text-decoration: none;
     padding: 20px;
     
@@ -22,7 +22,7 @@ nav li a{
 }
 
 nav li a:hover{
-    background-color: rgb(146, 129, 43);
+    background-color: rgb(131, 250, 234);
 }
 
 .dropdown-menu{
